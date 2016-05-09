@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439063228 source:c:\users\elgaston\documents\algo 2\leer textos\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
